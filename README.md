@@ -25,7 +25,7 @@ Another significant alternative to SQL is NewSQL, which aims to combine the scal
 <br>
 [Information & Data Quality](https://github.com/sourceduty/Information_Data_Quality)
 <br>
-[Databse Cretor](https://chat.openai.com/g/g-4LMQ2Y4k9-database-creator)
+[Databse Creator](https://chat.openai.com/g/g-4LMQ2Y4k9-database-creator)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
